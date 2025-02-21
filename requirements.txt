@@ -10,3 +10,11 @@ llama-index-llms-gemini==0.4.10
 llama-parse
 langchain
 langchain[openai, anthropic, google-genai]
+unstructured
+langchain-unstructured
+langchain-chroma
+langchain_community
+beautifulsoup4
+llama-index-readers-web
+llama-index-vector-stores-chroma
+llama-index-embeddings-langchain

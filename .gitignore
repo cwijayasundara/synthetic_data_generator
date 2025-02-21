@@ -6,3 +6,4 @@ __pycache__
 .DS_Store
 data_generator/__pycache__
 .gitignore
+account_data
