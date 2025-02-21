@@ -1,0 +1,12 @@
+python-dotenv
+openai
+scikit-learn
+ipython
+pandas
+streamlit
+llama-index
+llama-index-llms-openai
+llama-index-llms-gemini==0.4.10
+llama-parse
+langchain
+langchain[openai, anthropic, google-genai]
